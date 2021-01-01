@@ -1,5 +1,11 @@
 haamer
+
+
+
 دستورات
+
+
+
 ⇨⇨pkg update
 
 ⇨⇨pkg upgrade
